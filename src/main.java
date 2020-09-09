@@ -3,6 +3,6 @@ public class main {
         System.out.println("In my house there are following rooms:");
 	System.out.println("- Livingroom");
 	System.out.println("- Bathroom");
-	System.out.println("- Kitchen");gdgdgd
+	System.out.println("- Kitchen");
     }
 }
