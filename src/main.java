@@ -4,6 +4,7 @@ public class main {
 	System.out.println("- livingroom");
 	System.out.println("- bathroom");
 	System.out.println("- kitchen");
-	System.out.println("- bedroom");
+	System.out.println("- bedroom\n");
+	System.out.println("These furniture are the most importent ones:");
     } 
 }
