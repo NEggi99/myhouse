@@ -4,5 +4,5 @@ public class main {
 	System.out.println("- livingroom");
 	System.out.println("- bathroom");
 	System.out.println("- kitchen");
-    }
+    } 
 }
