@@ -7,5 +7,6 @@ public class main {
 	System.out.println("- bedroom\n");
 	System.out.println("These furniture are the most importent ones:");
 	System.out.println("- bed");
+	System.out.println("- wardrobe");	
     } 
 }
