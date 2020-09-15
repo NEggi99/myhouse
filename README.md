@@ -3,4 +3,4 @@ In this repository, you can find a list of all rooms in any house.
 If you want to add a room, please send me a pull request and if I'm agree with the change, I will merge it.
 Always keep an eye on the project board to track the upcoming issues. 
 # behavior
-This repository is only for test purposes. Please don't use it for other purpose.
+This repository is only for test purpose. Please don't use it for other purposes.
