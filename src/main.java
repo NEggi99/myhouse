@@ -9,6 +9,6 @@ public class main {
 		System.out.println("- bed");
 		System.out.println("- wardrobe");	 
 		System.out.println("- sofa");
-bla
-    }   bla
+
+    }   
 }
