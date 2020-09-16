@@ -10,5 +10,5 @@ public class main {
 		System.out.println("- wardrobe");	 
 		System.out.println("- sofa");
 bla
-    }  
+    }   bla
 }
